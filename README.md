@@ -1,2 +1,1 @@
-# HTML_Session_1Assignment_4
-HTML_Session_1Assignment_4
+Design an HTML5 page with one sentence which includes insertion and deletion of text.
